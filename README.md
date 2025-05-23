@@ -51,6 +51,6 @@ I use data, automation, and AI to solve real-world business problems — from cu
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marialmeidap)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maria-jos%C3%A9-almeida-pizarro-0912a3193/)
 - 🧠 [Kaggle](https://www.kaggle.com/marialmeidap)
-- 📧 marialmeida.datascience@gmail.com
+- 📧 marialmeidapizarro@gmail.com
